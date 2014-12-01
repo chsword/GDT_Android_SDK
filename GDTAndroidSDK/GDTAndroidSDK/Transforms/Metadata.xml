@@ -1,4 +1,5 @@
 <metadata>
+  <remove-node path="/api/package[@name='com.qq.e.v2.util']/class[@name='FileUtil']/method[@name='tryClose']" />
   <!--
   This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
